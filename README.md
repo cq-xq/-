@@ -1,3 +1,3 @@
 ## 技术快报-190902-190907
 
-[190907]（）https://www.jianshu.com/p/191d1e21f7ed]
+[190907][mysql如何进行累加计算](https://my.oschina.net/10000000000/blog/3102894)
