@@ -6,4 +6,4 @@
 
 [190907][海量数据，搜索引擎介绍](https://my.oschina.net/u/4007037/blog/3102302)[from陈强]
 
-[190907][如何打造一个高性能、高可用直播系统架构](https://www.infoq.cn/article/we4dDaWLO7ZsHLij6AZ9)
+[190907][如何打造一个高性能、高可用直播系统架构](https://www.infoq.cn/article/we4dDaWLO7ZsHLij6AZ9)[from刘文健]
